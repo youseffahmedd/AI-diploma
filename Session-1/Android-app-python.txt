@@ -1,0 +1,3 @@
+Yes, you can make andriod app with python be using library called kivy,
+or you can use BeeWare which is just a suite of python tools, 
+they enable you to develop platform native applications in python.
