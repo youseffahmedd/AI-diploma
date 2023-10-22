@@ -1,3 +1,3 @@
-task 4 => you can't make constant variable in python 
+You can't make constant variable in python 
 but its known if you want to make the vairable constant you make it uppercase like SALARY 
 and it's the devolper responsabilty not to change the value of the variable
